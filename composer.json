@@ -11,9 +11,9 @@
 	],
 	"minimum-stability": "dev",
 	"require": {
-		"illuminate/support": "5.*",
-		"illuminate/session": "5.*",
-		"illuminate/events": "5.*"
+		"illuminate/support": "7.*",
+		"illuminate/session": "7.*",
+		"illuminate/events": "7.*"
 	},
 	"autoload": {
         "psr-4": {
